@@ -1,5 +1,5 @@
-# BalbinaRaquelCorreia
-Balbina Raquel Correia Profile
+# Balbina Raquel Correia Profile
+
 
 <h2 align="left">Hi 👋! <br>My name is Balbina Raquel <br>and I'm an engineer!</h2>
 
